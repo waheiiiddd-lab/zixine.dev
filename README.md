@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Halo semuanya, saya [zixine]!
+# ⚡ Halo semuanya, saya zixine!
 
 ![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=VorteX%20GKI%20Kernel&fontSize=90)
 
